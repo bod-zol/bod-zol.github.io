@@ -1,3 +1,14 @@
+[
 {
-  "test":true
+"relation": [
+"delegate_permission/common.handle_all_urls"
+],
+"target": {
+"namespace": "android_app",
+"package_name": "com.example.shareoriginals",
+"sha256_cert_fingerprints": [
+"09:EA:CE:FE:EC:B8:B7:98:CD:B3:BF:55:0F:FB:8B:9B:7D:F5:04:56:51:3B:E3:E5:0F:E7:DA:26:05:56:83:A9"
+]
 }
+}
+]
